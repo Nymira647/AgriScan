@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 AgriScan - Rice Leaf Disease Detection
 
 AI-powered web application for detecting rice leaf diseases using deep learning.
@@ -126,3 +127,7 @@ The model uses:
 - Training time depends on dataset size and hardware
 - GPU acceleration recommended for faster training
 - Model file (agriscan_model.h5) must exist before running the API
+=======
+# AgriScan
+AI-powered rice leaf disease detection system using CNN, TensorFlow, Flask and Streamlit.
+>>>>>>> 15d4c5d2963570aaf4eaf3aca66cfd3acbeb11c2
