@@ -1,4 +1,6 @@
-streamlit
-tensorflow-cpu==2.14.0
-numpy==1.24.3
+flask
+streamlit==1.32.0
+requests
+tensorflow==2.15.0
+numpy
 pillow
